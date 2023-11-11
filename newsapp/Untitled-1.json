@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kaitlan Collins,Paula Reid,Katelyn Polantz",
+            "title": "Exclusive: Trump attorneys haven’t found classified document former president referred to on tape following subpoena - CNN",
+            "description": "Prosecutors subpoenaed Trump for records related to classified document on Iran after he was captured on tape discussing it",
+            "url": "https://www.cnn.com/2023/06/02/politics/donald-trump-iran-subpoena/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602091419-02-donald-trump-230601.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-02T16:17:00Z",
+            "content": "Attorneys for Donald Trump turned over material in mid-March in response to a federal subpoena related to a classified US military document described by the former president on tape in 2021 but were … [+5248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Heat vs. Nuggets: Miami comes out flat in NBA Finals opener, but there are reasons hope should not be lost - CBS Sports",
+            "description": "Denver may have played a complete game, but Miami was severely off in key areas",
+            "url": "https://www.cbssports.com/nba/news/heat-vs-nuggets-miami-comes-out-flat-in-nba-finals-opener-but-there-are-reasons-hope-should-not-be-lost/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/02/2948ad8d-61fc-477a-bdb6-ef3119a7c524/thumbnail/1200x675/530b6a0d8552bd99f76d9cf524601db3/untitled-design-352.png",
+            "publishedAt": "2023-06-02T15:51:00Z",
+            "content": "DENVER -- That was decisive.\r\nAnd, just maybe, a bit deceptive.\r\nIn the opening game of the NBA Finals, the Denver Nuggets' 104-93 win rarely felt that close. It was, aside from a too-late push by th… [+4229 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe, Jackie Wattles",
+            "title": "European Space Agency hosts first Mars live stream - CNN",
+            "description": "The images we have seen of Mars have been those of the past. But now, for the first time, you can see the planet live.",
+            "url": "https://www.cnn.com/2023/06/02/world/mars-live-images-stream-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601114921-02-mars-live-images.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-02T15:41:00Z",
+            "content": "Here is Mars in real time.\r\nThe European Space Agency is streaming on YouTube the first live images directly from Mars.\r\nOver the course of an hour, new images of Mars are expected about every 50 sec… [+2359 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Woman with untreated TB finally in custody—held in “negative pressure” room - Ars Technica",
+            "description": "She is being held in a jail room specially equipped for isolation and treatment.",
+            "url": "https://arstechnica.com/health/2023/06/woman-with-untreated-tb-finally-in-custody-held-in-negative-pressure-room/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1358937217-760x380.jpeg",
+            "publishedAt": "2023-06-02T15:33:00Z",
+            "content": "Enlarge/Mycobacterium tuberculosis.\r\n69 with \r\nLaw enforcement officials in Washington state have finally apprehended a Tacoma woman with tuberculosis who has refused treatment and isolation for over… [+3583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameSpot"
+            },
+            "author": "Eddie Makuch",
+            "title": "Tom Holland Gives Update On Spider-Man 4, As Spider-Woman Movie Coming \"Sooner Than You'd Expect\" - GameSpot",
+            "description": "If you're a fan of Spider-Man movies, you're getting many more.",
+            "url": "https://www.gamespot.com/articles/tom-holland-gives-update-on-spider-man-4-as-spider-woman-movie-coming-sooner-than-youd-expect/1100-6514722/",
+            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4147195-screenshot2023-06-02at9.58.39am.png",
+            "publishedAt": "2023-06-02T14:58:58Z",
+            "content": "Spider-Man: Across the Spider-Verse is coming to theaters this weekend, and there will be plenty more Spider-Man films to come after that.\r\nProducer Amy Pascal told Variety that a live-action Miles M… [+1555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Andrew Court",
+            "title": "Ivanka Trump seen chatting with Prince William at royal wedding - New York Post ",
+            "description": "She’s been shunned by New York high society, but it seems Ivanka Trump still gets a warm reception from actual royalty.",
+            "url": "https://nypost.com/2023/06/02/ivanka-trump-seen-chatting-with-prince-william-at-royal-wedding/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012092420.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-06-02T14:35:00Z",
+            "content": "She’s been shunned by New York high society, but it seems Ivanka Trump still gets a warm reception from actual royalty. \r\nThe former First Daughter, 41, was photographed chatting with Prince William,… [+3490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "US: AI-controlled drone turns against its human operator | Latest World News | English News | WION - WION",
+            "description": "The head of the AI tests and operations within the US Air Force has revealed that during the simulated test, the AI-powered road was tasked with destroying t...",
+            "url": "https://www.youtube.com/watch?v=eDNjeTwGi5E",
+            "urlToImage": "https://i.ytimg.com/vi/eDNjeTwGi5E/maxresdefault.jpg",
+            "publishedAt": "2023-06-02T14:16:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Boris Johnson to bypass government on Covid WhatsApps - BBC",
+            "description": "He has said he will give the Covid inquiry his messages in full, after the government refused to.",
+            "url": "https://www.bbc.com/news/uk-politics-65787617",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/106A4/production/_129963276_ce525c6df7bbf6a7c5517836400cb3d7bd4779be.jpg",
+            "publishedAt": "2023-06-02T14:01:38Z",
+            "content": "Boris Johnson has said he is giving unredacted WhatsApp messages dating back to May 2021 directly to the Covid inquiry, bypassing the government which has refused to hand them over.\r\nThe Cabinet Offi… [+3957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Derek Saul",
+            "title": "Tesla Stock Hits 4-Month High As Elon Musk's Net Worth Soars - Forbes",
+            "description": "Musk is about $70 billion richer Friday than he was in January.",
+            "url": "https://www.forbes.com/sites/dereksaul/2023/06/02/tesla-stock-hits-4-month-high-as-elon-musks-net-worth-soars/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6479f3a44dc76cbe860e1092/0x0.jpg?format=jpg&crop=2097,2048,x0,y66,safe&width=1200",
+            "publishedAt": "2023-06-02T13:53:34Z",
+            "content": "Shares of the electric vehicle giant run by the oft-erratic billionaire Elon Musk rallied to their highest price since early this year in Friday trading, as Musks net worth, battered badly by his con… [+2869 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Paul Davidson",
+            "title": "Jobs report for May 2023: 339,000 jobs added despite high inflation - USA TODAY",
+            "description": "Employers added 339,000 jobs in May despite high interest rates and inflation. Unemployment rose to 3.7%",
+            "url": "https://www.usatoday.com/story/money/2023/06/02/us-jobs-report-may-2023/70276486007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/04/01/USAT/821bb967-ea0f-414e-822f-58512b39fa75-GettyImages-1357001616.jpg?crop=2999,1687,x0,y123&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-02T13:48:16Z",
+            "content": "U.S. hiring accelerated in May as employers added a booming 339,000 jobs and the labor market continued to shrug off high interest rates and persistent inflation.\r\nThe unemployment rate, which is cal… [+4693 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France",
+            "title": "Jim Bob and Michelle Duggar address ‘Duggar Family Secrets’ docuseries - CNN",
+            "description": "Jim Bob and Michelle Duggar are pushing back on a new docuseries being billed as “exposing the truth beneath the wholesome Americana surface of reality tv’s favorite mega-family.”",
+            "url": "https://www.cnn.com/2023/06/02/entertainment/jim-bob-michelle-duggar-series/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602083549-jim-bob-michelle-duggar-file-2012.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-02T13:46:00Z",
+            "content": "Jim Bob and Michelle Duggar are pushing back on a new docuseries being billed as exposing the truth beneath the wholesome Americana surface of reality tvs favorite mega-family.\r\nShiny Happy People: D… [+2264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple's AR/VR Headset Expected to Enter Mass Production in October Ahead of Late 2023 Launch - MacRumors",
+            "description": "Apple's long-rumored AR/VR headset will enter mass production in October and launch by December, according to investment firm Morgan Stanley....",
+            "url": "https://www.macrumors.com/2023/06/02/apple-headset-october-production-report/",
+            "urlToImage": "https://images.macrumors.com/t/3B0vl-hXQPpYBeGdO44b28dp-To=/2500x/article-new/2023/05/apple-ar-concept-kane-purple.jpg",
+            "publishedAt": "2023-06-02T13:29:24Z",
+            "content": "Apple's long-rumored AR/VR headset will enter mass production in October and launch by December, according to investment firm Morgan Stanley. Apple is still expected to unveil the headset at WWDC nex… [+1021 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jay Croft",
+            "title": "Cheerleader recalls being shot after friend opened the wrong car door - CNN",
+            "description": "A Texas cheerleader who was shot and critically injured after another girl mistakenly opened the wrong car door says she was scared during the shooting but tried to stay calm for her even more frightened friends.",
+            "url": "https://www.cnn.com/2023/06/02/us/texas-cheerleader-shot-graduates/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602072851-payton-washington-screengrab.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-02T13:16:00Z",
+            "content": "A Texas cheerleader who was shot and critically injured after another girl mistakenly opened the wrong car door says she was scared during the shooting but tried to stay calm for her even more fright… [+3051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AnandTech"
+            },
+            "author": "Anton Shilov",
+            "title": "Meta Reveals Quest 3 VR Headset: Higher Resolutions and Next-Gen Snapdragon SoC - AnandTech",
+            "description": "Meta on Thursday announced the Quest 3, its next generation all-in-one untethered VR/MR headset. The updated headset is based around a newer Qualcomm SoC...",
+            "url": "https://www.anandtech.com/show/18889/meta-reveals-quest-3-vr-headset-higher-resolutions-and-next-gen-snapdragon-soc",
+            "urlToImage": "https://images.anandtech.com/doci/18889/350826634_3487588531484112_455367087978822435_n_678x452.png",
+            "publishedAt": "2023-06-02T13:00:00Z",
+            "content": "Meta on Thursday announced the Quest 3, its next generation all-in-one untethered VR/MR headset. The updated headset is based around a newer Qualcomm SoC for VR/MR applications, offering increased pe… [+3423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Ian Sample",
+            "title": "Scientists discover mysterious cosmic threads in Milky Way - The Guardian",
+            "description": "Horizontal structures, up to 10 light years in length, appear to point in direction of galaxy’s black hole",
+            "url": "https://www.theguardian.com/science/2023/jun/02/scientists-discover-mysterious-cosmic-threads-in-milky-way",
+            "urlToImage": "https://i.guim.co.uk/img/media/bc5049746d6797727e0725833327e5842f0a270c/258_222_2168_1301/master/2168.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05aa476983b84868834f0378ab0b2602",
+            "publishedAt": "2023-06-02T13:00:00Z",
+            "content": "Astronomers have discovered hundreds of mysterious cosmic threads that point towards the supermassive black hole at the heart of the Milky Way, after a survey of the galaxy.\r\nThe strange filaments, e… [+3209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Don't Miss the Star-Studded June Sky: Mars, Venus, Spica, Arcturus, and the Summer Triangle! - SciTechDaily",
+            "description": "Mars and Venus, Summer Stars, and the June Solstice! The planets of war and love draw nearer each night, as the bright stars of Northern Hemisphere summer rise. And note the June solstice on the 21st. https://youtu.be/fYNWZPGj5NM What are some skywatching hig…",
+            "url": "https://scitechdaily.com/?p=282828",
+            "urlToImage": "https://scitechdaily.com/images/Illustration-of-Venus-and-Mars.jpg",
+            "publishedAt": "2023-06-02T12:40:06Z",
+            "content": "ByNASA's Jet Propulsion LaboratoryJune 2, 2023\r\nIn June 2023, skywatching highlights include the nearing of Mars and Venus, the leading of Saturn into the dawn by Jupiter, and the bright evening star… [+9051 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Missy Ryan",
+            "title": "Blinken calls Russian invasion of Ukraine a strategic failure - The Washington Post",
+            "description": "Antony Blinken also described Russia's “strategic failure” in Ukraine, which he said has isolated Moscow, weakened its economy and exposed the weakness of its military.",
+            "url": "https://www.washingtonpost.com/national-security/2023/06/02/ukraine-russia-blinken-address-finland/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RGHSJQOMI4WUWH5PN3RIK46NKM_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-06-02T12:40:00Z",
+            "content": "Comment on this story\r\nComment\r\nHELSINKI Proposals to impose cease-fires or territorial concessions as means to halt the war in Ukraine would serve only to legitimize President Vladimir Putins aggres… [+8578 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matt Turner",
+            "title": "AI to have negative economic impact on white-collar middle class workers - Business Insider",
+            "description": "AI is going to have a huge impact on the workforce. And while there will be winners in the workplace, there will also be losers.",
+            "url": "https://www.businessinsider.com/ai-artificial-intelligence-negative-impact-middle-class-white-collar-workers-2023-5",
+            "urlToImage": "https://i.insider.com/64625e8c3c46f3001898c440?width=1200&format=jpeg",
+            "publishedAt": "2023-06-02T11:45:00Z",
+            "content": "\"Mediocrity will be automated.\"\r\nThat was the verdict a top tech executive shared with me recently, describing the impact he predicted AI would have on the workforce. And while the phrasing might see… [+6284 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Morgan Winsor",
+            "title": "Cadaver dogs arrive at Iowa building collapse in race against time to find survivors - ABC News",
+            "description": "Iowa Task Force 1 arrived in Davenport with \"live and cadaver canines.\"",
+            "url": "https://abcnews.go.com/US/iowa-building-collapse-task-force-cadaver-dogs/story?id=99782834",
+            "urlToImage": "https://s.abcnews.com/images/US/iowa-building-collapse-gty-moe-002-230530_1685448794139_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-06-02T11:15:00Z",
+            "content": "An elite task force with dogs trained to smell death is combing through a partially collapsed building in eastern Iowa as three people remain missing.\r\nIowa Task Force 1, a Cedar Rapids-based urban s… [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Chuong Nguyen",
+            "title": "Dealmaster: Discounts on games, toys, laptops, and more - Ars Technica",
+            "description": "Savings on laptops, games, and toys to keep you entertained this summer.",
+            "url": "https://arstechnica.com/shopping/2023/06/dealmaster-discounts-on-games-toys-laptops-and-more/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/01/jhahn-switch-760x380.png",
+            "publishedAt": "2023-06-02T11:00:56Z",
+            "content": "6 with \r\nWith school out and longer days ahead, summer is the perfect season to relax, recharge, and refresh. We've got discounts on DJI's Mini 3 drone, some video games for Switch and PS5, and maybe… [+10295 chars]"
+        }
+    ]
+}
